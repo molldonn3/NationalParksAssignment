@@ -4,23 +4,17 @@
 
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
-		<Name>Grand Canyon National Park</Name>
-		<Address>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
 			<Number>8</Number>
 			<Street>S Entrance Road</Street>
 			<City>Grand Canyon</City>
 			<State>AZ</State>
 			<Zip>86023</Zip>
+		</Address>
 	</NationalPark>
-
-	<Address NearestAirport="FlagStaff">
-		<Number>8</Number>
-		<Street>S Entrance Road</Street>
-		<City>Grand Canyon</City>
-		<State>AZ</State>
-		<Zip>86023</Zip>
-	</Address>
-</NationalPark>
 
 <NationalPark Rating="4.6">
 	<Name>Yellowstone</Name>
@@ -28,6 +22,7 @@
 	<Address NearestAirport="Yellowstone">
 		<Number>721</Number>
 		<Street>Airport Road</Street>
+		<City>West Yellowstone</City>
 		<State>MT</State>
 		<Zip>59758</Zip>
 	</Address>
@@ -35,7 +30,7 @@
 
 <NationalPark Rating="4.8">
 	<Name>Yosemite</Name>
-	<Address NearestAirport="">
+	<Address>
 		<Number>5175</Number>
 		<Street>E Clinton Way</Street>
 		<City>Fresno</City>
@@ -138,7 +133,6 @@
 		<City>Moab</City>
 		<State>UT</State>
 		<Zip>84532</Zip>
-	</Address>
 </NationalPark>
 
 </NationalPark>
